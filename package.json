@@ -6,11 +6,15 @@
     "aframe": "*",
     "aframe-animation-component": "*",
     "aframe-particle-system-component": "*",
+    "aframe-physics-system": "^3.3.0",
     "aframe-react": "*",
+    "express": "^4.16.4",
     "next": "*",
     "prop-types": "*",
     "react": "*",
-    "react-dom": "*"
+    "react-dom": "*",
+    "serialport": "^7.1.4",
+    "socket.io": "^2.2.0"
   },
   "scripts": {
     "dev": "next",
